@@ -15,13 +15,27 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.hangzhou</groupId>
-  <artifactId>maven_project6</artifactId>
+  
+
+
+
+
+ <groupId>successpc</groupId>
+  <artifactId>successpc</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>maven_project6</name>
+  <name>successpc</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+
+
+
+
+
+
+
+
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
